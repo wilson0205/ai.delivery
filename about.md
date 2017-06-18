@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About AI.delivery
-permalink: /about/
+permalink: "/about/"
+layout: page
 tags: about
 ---
 
